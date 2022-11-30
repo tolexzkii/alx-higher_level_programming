@@ -21,3 +21,9 @@ This task contains the following:
 
 ### 6. Play with strings
 * print Welcome to Holberton School!
+
+### 7. Copy-Cut-Paste
+* Complete from source code.
+
+### 8. Create a new sentence
+* Complete from source code to print "object-oriented programming with Python", followed by a new line.
