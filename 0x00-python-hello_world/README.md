@@ -6,3 +6,12 @@ This task contains the following:
 
 ### 1. Run inline
 * A shell script that runs Python code.
+
+### 2. Hello, print
+* Write a Python script that prints exactly "Programming is like building a mutilingual puzzle", followed by a new line.
+
+### 3. Print intger
+* print the integer stored in the variable number, followed by Battery street, followed by a new line.
+
+### 4. Print float
+* print float stored in the variable number with a precision of 2 digits.
