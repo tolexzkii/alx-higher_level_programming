@@ -15,3 +15,9 @@ This task contains the following:
 
 ### 4. Print float
 * print float stored in the variable number with a precision of 2 digits.
+
+### 5. Print string
+* print 3 times a string stored in the variable str, followed by its first 9 characters.
+
+### 6. Play with strings
+* print Welcome to Holberton School!
